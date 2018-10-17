@@ -8,7 +8,8 @@ public enum Shichifukujin {
 	JUROJIN(4),
 	FUKUROKUJU(5),
 	BENZAITEN(6),
-	HOTEIMON(7);
+	HOTEIMON(7),
+	HIROKI(8);
 	
 	private int index;
 	
